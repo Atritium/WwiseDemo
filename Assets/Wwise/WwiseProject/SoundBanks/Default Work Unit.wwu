@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{6CFC4809-26C5-4C34-85EA-17F96478986A}" SchemaVersion="119">
+<WwiseDocument Type="WorkUnit" ID="{0EEFD378-3937-49B0-B179-051CD9E782F4}" SchemaVersion="119">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{6CFC4809-26C5-4C34-85EA-17F96478986A}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{0EEFD378-3937-49B0-B179-051CD9E782F4}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="Text" ID="{95EBB1DC-5F20-4636-A5A9-B34E6774A880}">
+				<SoundBank Name="BgmSoundBank" ID="{30DD7EB7-7270-4E83-A04A-DD7769350ED9}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Theme_Play" ID="{B95723A1-51D1-4E2F-8811-D2FBBCCB1E9F}" WorkUnitID="{F0D94A03-89BC-4C97-B784-FA7222727700}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Dicemon_Theme" ID="{4F20CA88-5073-4221-A4A9-6F9D1DACA69B}" WorkUnitID="{62ABEA27-EEC4-465F-BB6D-8CC526E8C96A}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

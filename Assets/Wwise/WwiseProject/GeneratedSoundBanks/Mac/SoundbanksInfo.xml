@@ -162,23 +162,23 @@
 				</AcousticTexture>
 			</AcousticTextures>
 		</SoundBank>
-		<SoundBank Id="2972449336" Type="User" Language="SFX" Hash="{6A056319-2AE7-FF48-2DBF-561FA948F243}">
-			<ShortName>Text</ShortName>
-			<Path>Text.bnk</Path>
+		<SoundBank Id="3370353384" Type="User" Language="SFX" Hash="{29F2F298-028A-BB71-65B6-CEAF26FBEC1F}">
+			<ShortName>BgmSoundBank</ShortName>
+			<Path>BgmSoundBank.bnk</Path>
 			<Media>
-				<File Id="683974764" Language="SFX" Streaming="false" Location="Memory">
+				<File Id="187490114" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Dicemon_Theme.wav</ShortName>
 					<CachePath>SFX/Dicemon_Theme_818F3B66.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
-				<Event Id="4129968761" Name="Theme_Play">
+				<Event Id="89220753" Name="Play_Dicemon_Theme">
 					<MediaRefs>
-						<MediaRef Id="683974764"/>
+						<MediaRef Id="187490114"/>
 					</MediaRefs>
 				</Event>
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{7A0CC236-BE08-16A7-4D6D-C79A1849BA52}</FileHash>
+	<FileHash>{064D7822-B255-01CB-3BEC-BC381CB4A0CE}</FileHash>
 </SoundBanksInfo>

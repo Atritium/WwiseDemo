@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{412EA537-F299-4738-B560-B34A47852DEF}" SchemaVersion="119">
+<WwiseDocument Type="WorkUnit" ID="{5A5D4CF1-387E-4F94-8FD1-9CD58D89A0FC}" SchemaVersion="119">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{412EA537-F299-4738-B560-B34A47852DEF}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{5A5D4CF1-387E-4F94-8FD1-9CD58D89A0FC}" PersistMode="Standalone">
 			<ChildrenList>
-				<Sound Name="Dicemon_Theme" ID="{17D7E27E-299C-4909-A521-B0072142DC55}" ShortID="799139198">
+				<Sound Name="Dicemon_Theme" ID="{41993CE4-4A53-4D1D-BB8A-2FEA7347D4EC}" ShortID="182141278">
 					<ReferenceList>
 						<Reference Name="Conversion">
-							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AE3CF4D0-0876-46E7-85B1-0268FD4B6118}"/>
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{60A2A285-0A37-4672-94C9-CEE04F6740E2}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5C686BCE-7C83-4092-8FFE-CD5BFE829D7F}"/>
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F453F36D-5A5D-478B-9D2D-79E7682003B6}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="Dicemon_Theme" ID="{CED26EE1-9404-495B-AD4B-0CB667D7C012}">
+						<AudioFileSource Name="Dicemon_Theme" ID="{A6292C10-26D1-41A3-9070-1968FEA9D0E0}">
 							<Language>SFX</Language>
 							<AudioFile>Dicemon_Theme.wav</AudioFile>
 							<MediaIDList>
-								<MediaID ID="683974764"/>
+								<MediaID ID="187490114"/>
 							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
-						<ActiveSource Name="Dicemon_Theme" ID="{CED26EE1-9404-495B-AD4B-0CB667D7C012}" Platform="Linked"/>
+						<ActiveSource Name="Dicemon_Theme" ID="{A6292C10-26D1-41A3-9070-1968FEA9D0E0}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>

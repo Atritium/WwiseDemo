@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{F0D94A03-89BC-4C97-B784-FA7222727700}" SchemaVersion="119">
+<WwiseDocument Type="WorkUnit" ID="{62ABEA27-EEC4-465F-BB6D-8CC526E8C96A}" SchemaVersion="119">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{F0D94A03-89BC-4C97-B784-FA7222727700}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{62ABEA27-EEC4-465F-BB6D-8CC526E8C96A}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Theme_Play" ID="{B95723A1-51D1-4E2F-8811-D2FBBCCB1E9F}">
+				<Event Name="Play_Dicemon_Theme" ID="{4F20CA88-5073-4221-A4A9-6F9D1DACA69B}">
 					<ChildrenList>
-						<Action Name="" ID="{E7EA516D-7923-498F-AE4C-6E31ABCFCEB2}" ShortID="1044601999">
+						<Action Name="" ID="{F0A7F1FF-AB10-4B6B-A78F-35C841A601D2}" ShortID="390131884">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Dicemon_Theme" ID="{17D7E27E-299C-4909-A521-B0072142DC55}" WorkUnitID="{412EA537-F299-4738-B560-B34A47852DEF}"/>
+									<ObjectRef Name="Dicemon_Theme" ID="{41993CE4-4A53-4D1D-BB8A-2FEA7347D4EC}" WorkUnitID="{5A5D4CF1-387E-4F94-8FD1-9CD58D89A0FC}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

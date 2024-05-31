@@ -1,59 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="Project" SchemaVersion="119" WwiseVersion="v2023.1.4" WwiseBuild="8496">
 	<ProjectInfo>
-		<Project Name="WwiseProject" ID="{B772CE9D-69FA-4FBD-BDA1-CA2317137555}">
+		<Project Name="WwiseProject" ID="{17AB3463-1627-44CC-8C91-48F061BC384B}">
 			<Platforms>
-				<Platform Name="Mac" ReferencePlatform="Mac" ID="{6066C853-AB6D-42A3-98A8-29958851245B}" />
-				<Platform Name="Windows" ReferencePlatform="Windows" ID="{8D65709D-75BC-4126-B9A5-788E9F5CADFF}" />
+				<Platform Name="Mac" ReferencePlatform="Mac" ID="{6D758262-B4C1-4283-9F9A-0A66339B3B6C}" />
+				<Platform Name="Windows" ReferencePlatform="Windows" ID="{77B3DBB5-C71B-4839-B549-13BCF8010CBA}" />
 			</Platforms>
 			<LanguageList>
-				<Language Name="English(US)" ID="{282BE401-8545-47D0-84C0-476F2A4695A3}" />
-				<Language Name="External" ID="{29BAFB5B-34CC-4EDA-985E-07DED635BA36}" />
-				<Language Name="Mixed" ID="{D3C3A738-A642-4BA9-9F8E-3077CC9BAAC6}" />
-				<Language Name="SFX" ID="{FBC1FE1A-6693-48EA-9E62-27953B00A25C}" />
+				<Language Name="English(US)" ID="{78450B4A-C415-4E17-8990-E4E31E426660}" />
+				<Language Name="External" ID="{CE0D9050-D687-4750-B023-4BAB5FC85A59}" />
+				<Language Name="Mixed" ID="{1F334892-562E-4AF1-BC30-C712388F8779}" />
+				<Language Name="SFX" ID="{B1BB8A3F-AD76-4FE7-8CF3-F9E7B2FC23A8}" />
 			</LanguageList>
 			<PropertyList>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
-						<Value Platform="Windows"></Value>
 						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
 				<Property Name="ExternalSourcesOutputPath" Type="string">
 					<ValueList>
-						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
 						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
+						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankGenerateEstimatedDuration" Type="bool" Value="True" /><Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\" />
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
-						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
 						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
+						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankPostGenerateCustomCmdDescription" Type="string">
 					<ValueList>
-						<Value Platform="Windows"></Value>
 						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankPostGenerateCustomCmdLines" Type="string">
 					<ValueList>
-						<Value Platform="Windows"></Value>
 						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankPreGenerateCustomCmdDescription" Type="string">
 					<ValueList>
-						<Value Platform="Windows"></Value>
 						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankPreGenerateCustomCmdLines" Type="string">
 					<ValueList>
-						<Value Platform="Windows"></Value>
 						<Value Platform="Mac"></Value>
+						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
 				<Property Name="WwiseVersionWhenCreated" Type="string" Value="Branch=wwise_v2023.1|Build=8496|VersionName=v2023.1.4|Config=Release" />
@@ -11296,7 +11296,7 @@
 					<Comment></Comment>
 					<ObsOccCurve CurveXType="Obstruction" CurveYType="Volume">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{970241EB-A756-45B4-BB7E-6F4B190020B0}">
+							<Curve Name="" ID="{7DA7CEDF-306F-4FC1-95F9-8EA584E1FF09}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="3" />
 								</PropertyList>
@@ -11317,7 +11317,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Obstruction" CurveYType="LPF">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{B0DDE9AD-EA9E-4EF8-824D-C3F285BDA418}">
+							<Curve Name="" ID="{D3B30342-75BA-48E6-A68A-62653484AA65}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1" />
 								</PropertyList>
@@ -11338,7 +11338,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Obstruction" CurveYType="HPF">
 						<PlatformCurve Platform="Linked" EnableCurve="false">
-							<Curve Name="" ID="{FE50A75F-5A05-4A69-BEA7-510D7E0F6D16}">
+							<Curve Name="" ID="{BA9F4DDC-8947-43DC-9C07-B2A0C8140E3C}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1" />
 								</PropertyList>
@@ -11359,7 +11359,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Occlusion" CurveYType="Volume">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{E44661CF-284B-449A-8AD8-CA6BC6BD5EBD}">
+							<Curve Name="" ID="{977CDBD3-DE30-4DE2-B0BF-9043B5FAEBEC}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="3" />
 								</PropertyList>
@@ -11380,7 +11380,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Occlusion" CurveYType="LPF">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{A101AEFB-F2D3-499C-BD10-B5F6E750E025}">
+							<Curve Name="" ID="{A211A17E-C6B7-465A-BE09-B4C1E8C8A244}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1" />
 								</PropertyList>
@@ -11401,7 +11401,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Occlusion" CurveYType="HPF">
 						<PlatformCurve Platform="Linked" EnableCurve="false">
-							<Curve Name="" ID="{C8D3FD18-4227-47A0-B381-34E354849A42}">
+							<Curve Name="" ID="{338AF090-6B2D-42BC-BF9D-5FC0EA2123E2}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1" />
 								</PropertyList>

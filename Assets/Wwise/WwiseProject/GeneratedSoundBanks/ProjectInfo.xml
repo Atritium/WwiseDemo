@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo>
-	<Project Name="WwiseProject" GUID="{B772CE9D-69FA-4FBD-BDA1-CA2317137555}" Generator="2023.1.4.8496"/>
+	<Project Name="WwiseProject" GUID="{17AB3463-1627-44CC-8C91-48F061BC384B}" Generator="2023.1.4.8496"/>
 	<CacheRoot>../.cache</CacheRoot>
 	<Platforms>
-		<Platform Name="Mac" GUID="{6066C853-AB6D-42A3-98A8-29958851245B}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="Mac"/>
-		<Platform Name="Windows" GUID="{8D65709D-75BC-4126-B9A5-788E9F5CADFF}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="Windows"/>
+		<Platform Name="Mac" GUID="{6D758262-B4C1-4283-9F9A-0A66339B3B6C}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="Mac"/>
+		<Platform Name="Windows" GUID="{77B3DBB5-C71B-4839-B549-13BCF8010CBA}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="Windows"/>
 	</Platforms>
 	<Languages>
-		<Language Name="English(US)" Id="684519430" GUID="{282BE401-8545-47D0-84C0-476F2A4695A3}" Default="true" UseAsStandIn="true"/>
+		<Language Name="English(US)" Id="684519430" GUID="{78450B4A-C415-4E17-8990-E4E31E426660}" Default="true" UseAsStandIn="true"/>
 	</Languages>
-	<FileHash>{402D94CC-3125-F264-149A-B1AE39928F57}</FileHash>
+	<FileHash>{4D5E03E5-7EEB-79CE-5CA4-4F920A606D94}</FileHash>
 </ProjectInfo>
