@@ -331,7 +331,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 78d3ef0e3739b049b179051cd9e782f4
     GuidInternal: 
-    m_lastTime: -8584844844912321715
+    m_lastTime: -8584844805109080621
     List:
     - name: BgmSoundBank
       guid: b77edd307072834ea04add7769350ed9
@@ -359,11 +359,11 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 27eaab62c4ee5f46bb6d8cc526e8c96a
     GuidInternal: 
-    m_lastTime: -8584844845264031095
+    m_lastTime: -8584844743327962318
     List:
-    - name: Play_Dicemon_Theme
+    - name: Dicemon_Theme
       guid: 88ca204f73502142a4a96f9d1daca69b
-      id: 89220753
+      id: 1285945044
       PathAndIcons:
       - ElementName: Events
         ObjectType: 5
@@ -371,10 +371,10 @@ MonoBehaviour:
       - ElementName: Default Work Unit
         ObjectType: 12
         guid: 27eaab62c4ee5f46bb6d8cc526e8c96a
-      - ElementName: Play_Dicemon_Theme
+      - ElementName: Dicemon_Theme
         ObjectType: 3
         guid: 88ca204f73502142a4a96f9d1daca69b
-      Path: Events\Default Work Unit\Play_Dicemon_Theme
+      Path: Events\Default Work Unit\Dicemon_Theme
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
@@ -588,7 +588,7 @@ MonoBehaviour:
     m_lastTime: -8584844845839812710
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 0100000006000000070000000b000000
+  ExpandedWaapiItemIds: 0100000006000000070000000b0000000c000000
   AutoSyncSelection: 1
   autoPopulateEnabled: 1
   currentDataSource: 0

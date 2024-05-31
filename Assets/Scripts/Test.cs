@@ -9,7 +9,8 @@ public class Test : MonoBehaviour
     void Start()
     {
         AkBankManager.LoadBank("BgmSoundBank", false, false);
-        AkSoundEngine.PostEvent("Play_Dicemon_Theme", gameObject);
+        AkSoundEngine.PostEvent("Dicemon_Theme", gameObject);
+        AkSoundEngine.ExecuteActionOnEvent("Dicemon_Theme", AkActionOnEventType.AkActionOnEventType_Pause, gameObject);
     }
 
     // Update is called once per frame

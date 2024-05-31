@@ -1,5 +1,5 @@
 Event	ID	Name			Wwise Object Path	Notes
-	89220753	Play_Dicemon_Theme			\Default Work Unit\Play_Dicemon_Theme	
+	1285945044	Dicemon_Theme			\Default Work Unit\Dicemon_Theme	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	187490114	Dicemon_Theme	C:\Fork\Wwise\WwiseDemo\Assets\Wwise\WwiseProject\.cache\Mac\SFX\Dicemon_Theme_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dicemon_Theme		25600160

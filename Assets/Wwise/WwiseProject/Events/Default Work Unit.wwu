@@ -3,7 +3,7 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{62ABEA27-EEC4-465F-BB6D-8CC526E8C96A}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Play_Dicemon_Theme" ID="{4F20CA88-5073-4221-A4A9-6F9D1DACA69B}">
+				<Event Name="Dicemon_Theme" ID="{4F20CA88-5073-4221-A4A9-6F9D1DACA69B}">
 					<ChildrenList>
 						<Action Name="" ID="{F0A7F1FF-AB10-4B6B-A78F-35C841A601D2}" ShortID="390131884">
 							<ReferenceList>

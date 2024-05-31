@@ -5,7 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="BgmSoundBank" ID="{30DD7EB7-7270-4E83-A04A-DD7769350ED9}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Play_Dicemon_Theme" ID="{4F20CA88-5073-4221-A4A9-6F9D1DACA69B}" WorkUnitID="{62ABEA27-EEC4-465F-BB6D-8CC526E8C96A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dicemon_Theme" ID="{4F20CA88-5073-4221-A4A9-6F9D1DACA69B}" WorkUnitID="{62ABEA27-EEC4-465F-BB6D-8CC526E8C96A}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
