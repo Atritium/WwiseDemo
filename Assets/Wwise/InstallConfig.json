@@ -1,0 +1,150 @@
+{
+	"scriptExecutionOrder": {
+		"AkInitializer": -100,
+		"AkBank": -75,
+		"AkAudioListener": -50,
+		"AkGameObj": -25,
+		"AkState": -20,
+		"AkSwitch": -10,
+		"AkTerminator": 100
+	},
+	"filesToKeep": [
+		{
+			"since": "2020.1",
+			"patterns": [
+				".meta"
+			],
+			"source": "Assets/Wwise/Deployment/Components",
+			"destination": "Assets/Wwise/MonoBehaviour/Runtime"
+		},
+		{
+			"since": "2020.1",
+			"patterns": [
+				".meta"
+			],
+			"source": "Assets/Wwise/MonoBehaviour/Runtime",
+			"destination": "Assets/Wwise/MonoBehaviour/Runtime"
+		},
+		{
+			"patterns": [
+				".meta"
+			],
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/API/Handwritten/Common/Timeline",
+			"destination": "Assets/Wwise/Timeline/Runtime"
+		},
+		{
+			"patterns": [
+				".meta"
+			],
+			"since": "2020.1",
+			"source": "Assets/Wwise/Timeline/Runtime",
+			"destination": "Assets/Wwise/Timeline/Runtime"
+		},
+		{
+			"patterns": [
+				".meta"
+			],
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/API/Handwritten/Common/WwiseTypes",
+			"destination": "Assets/Wwise/API/Runtime/WwiseTypes/WwiseTypes"
+		},
+		{
+			"patterns": [
+				".meta"
+			],
+			"since": "2020.1",
+			"source": "Assets/Wwise/API/Runtime/WwiseTypes/WwiseTypes",
+			"destination": "Assets/Wwise/API/Runtime/WwiseTypes/WwiseTypes"
+		},
+		{ 
+			"patterns": [
+				".meta"
+			],
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/API/Handwritten/Common/WwiseObjects",
+			"destination": "Assets/Wwise/API/Runtime/WwiseTypes/WwiseObjects"
+		},
+		{ 
+			"patterns": [
+				".meta"
+			],
+			"since": "2020.1",
+			"source": "Assets/Wwise/API/Runtime/WwiseTypes/WwiseObjects",
+			"destination": "Assets/Wwise/API/Runtime/WwiseTypes/WwiseObjects"
+		},
+		{
+			"patterns": [
+			],
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/Components",
+			"destination": "Assets/Wwise/Timeline/Runtime"
+		},
+		{
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/Components/AkEventPlayable.cs.meta",
+			"destination": "Assets/Wwise/Timeline/Runtime/AkEventPlayable.cs.meta"
+		},
+		{
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/Components/AkEventCallbackData.cs.meta",
+			"destination": "Assets/Wwise/Timeline/Runtime/AkEventCallbackData.cs.meta"
+		},
+		{
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/Components/AkEventPlayableBehaviour.cs.meta",
+			"destination": "Assets/Wwise/Timeline/Runtime/AkEventPlayableBehaviour.cs.meta"
+		},
+		{
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/Components/AkEventTrack.cs.meta",
+			"destination": "Assets/Wwise/Timeline/Runtime/AkEventTrack.cs.meta"
+		},
+		{
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/Components/AkRTPCTrack.cs.meta",
+			"destination": "Assets/Wwise/Timeline/Runtime/AkRTPCTrack.cs.meta"
+		},
+		{
+			"since": "2020.1",
+			"source": "Assets/Wwise/Deployment/Components/AkRTPCPlayable.cs.meta",
+			"destination": "Assets/Wwise/Timeline/Runtime/AkRTPCPlayable.cs.meta"
+		},
+		{
+			"since": "2020.1",
+			"patterns": [
+				".meta"
+			],
+			"source": "Assets/Wwise/MonoBehaviour/Runtime",
+			"destination": "Assets/Wwise/MonoBehaviour/Runtime"
+		},
+
+		{
+			"since": "2020.1",
+			"source": "Assets/Wwise/API/Runtime/AkSoundEngine.extensions.cs",
+			"destination": "Assets/Wwise/API/Runtime/AkSoundEngine.extensions.cs"
+		}
+	],
+	"folderExclusions": [
+		{
+			"until": "2019.2",
+			"path": "extensions"
+		},
+		{
+			"path": "resources"
+		},
+		{
+			"path": "scriptableobjects"
+		}
+	],
+	"scriptExecutionOrderPath": [
+		{
+			"until": "2019.2",
+			"path": "Assets/Wwise/Deployment/Component"
+		},
+		{
+			"since": "2020.1",
+			"path": "Assets/Wwise/MonoBehaviour/Runtime"
+		}
+	]
+}
